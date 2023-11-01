@@ -9,16 +9,5 @@ Java es un lenguaje de programación ampliamente utilizado para codificar aplica
 ## SQLite:
 SQLite es un sistema de gestión de bases de datos relacional ligero, autónomo y sin servidor, que se destaca por su simplicidad y eficiencia. Es ampliamente utilizado en aplicaciones y dispositivos donde se requiere un almacenamiento de datos local, como aplicaciones móviles y embebidas, debido a su bajo consumo de recursos y facilidad de implementación. A diferencia de otros sistemas de gestión de bases de datos, SQLite no requiere un servidor separado, lo que simplifica su integración en proyectos de pequeña escala.
 
-## Link a drive del proyecto:
-https://drive.google.com/drive/folders/1MGyvrCFAGUWPA282nXfrBgIYfNnRpvep?usp=sharing
 
-## Personas Desarrolladoras del Proyecto
 
-- Lucas Emir Sanchez
-- Danilo Oviedo
-- Daniel Aranda
-- Eduardo Nicolas Zurbriggen
-- Jose Martin Oviedo
-- Damian Emiliano Ledesma
-- Fernando Esteban Juarez
-- Facundo Villalba
